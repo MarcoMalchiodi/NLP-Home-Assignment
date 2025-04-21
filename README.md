@@ -13,4 +13,4 @@ Word Embedding (Word2Vec): The textual data is transformed into numerical vector
 Model Building:
 
 
-Machine Learning Pipeline (news_classifier.ipynb):
+Machine Learning Models (news_classifier.ipynb): Naïve Bayes, Support Vector Machines (SVM), Random Forest, Recurrent Neural Networks (RNNs).
